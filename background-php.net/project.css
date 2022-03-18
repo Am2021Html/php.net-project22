@@ -1,4 +1,12 @@
-
+::placeholder{
+  color:blue
+}
+::placeholder{
+     background: black
+}
+h3{ font-size: 28px }
+h3{ color:blue }
+h3{ background: gray }
   h2{ font-size: 29px }
   h2{ color:#f8f8f8 }
   h2{ background:blue }
